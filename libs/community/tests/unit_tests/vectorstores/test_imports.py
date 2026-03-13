@@ -10,6 +10,7 @@ EXPECTED_ALL = [
     "AnalyticDB",
     "Annoy",
     "ApacheDoris",
+    "ApacheDoris2",
     "ApertureDB",
     "AstraDB",
     "AtlasDB",
